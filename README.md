@@ -1,2 +1,2 @@
 # watchlist
-WatchList project
+"WatchList" project
